@@ -1,4 +1,4 @@
-![system](https://img.shields.io/badge/KubuS-web-v.9.3.2-blue)
+![system](https://img.shields.io/badge/KubuS--web-v.9.3.2-blue)
 
 <h1 align="center">Hi 👋, I'm KubuS</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
