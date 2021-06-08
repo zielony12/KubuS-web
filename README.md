@@ -14,7 +14,7 @@ const GoodMorning = {
  challenge:[ 100 day in coding ],
 }
 ```
-## ⚙  Languages & Tools ⚙ 
+<h1 align ="center"> ⚙  Languages & Tools ⚙ </h1>
 <p align="center" >
   <img   src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white "alt ="1"/>
   <img   src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"alt ="1"/>
