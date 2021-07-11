@@ -7,9 +7,9 @@
 const GoodMorning = {
   code: [ Html, Css ],
   About:[
-    :telescope: I’m currently working on ... Web Development,
-    :seedling: I’m currently learning ... Backend ,
-    :thinking: I’m looking for help with backend learn:relieved:
+    🔭 I’m currently working on ... Web Development,
+    🌵 I’m currently learning ... Backend ,
+    😐 I’m looking for help with backend learn
  ],
  challenge:[ 100 day in coding ],
 }
