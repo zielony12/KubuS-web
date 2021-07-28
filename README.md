@@ -21,7 +21,9 @@ const GoodMorning = {
   <img  src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"alt ="1" />
   <img  src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"alt ="1" />
 
-<h1 align ="center"> ![:KubuS-web](https://count.getloli.com/get/@:KubuS-web) </h1>
+<h1 align ="center">
+ <img src="https://count.getloli.com/get/@:KubuS-web" alt=":KubuS-web" />
+</h1>
 
 <h1 align ="center"> 💛Projects💛 </h1>
 
