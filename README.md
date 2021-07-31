@@ -3,17 +3,6 @@
 <h1 align="center">Hi 👋, I'm KubuS</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
  
-```javascript
-const GoodMorning = {
-  code: [ Html, Css ],
-  About:[
-    🔭 I’m currently working on ... Web Development,
-    🌵 I’m currently learning ... Backend ,
-    😐 I’m looking for help with backend learn
- ],
- challenge:[ 100 day in coding ],
-}
-```
 <h1 align ="center"> ⚙  Languages & Tools ⚙ </h1>
 <p align="center" >
   <img   src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white "alt ="1"/>
